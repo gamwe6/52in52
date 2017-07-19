@@ -12,6 +12,7 @@
 
 - [Pages Colorées](http://pagescolorees.info) - Yellow Pages, but with more colors
 - [frmfrm](https://frmfrm.cc) - Form backend as a service
+- [SnapScreen](http://snapscreen.me) - &#8984; + &#x21E7; + 3 as a service
 
 ## Challenge yourself
 
