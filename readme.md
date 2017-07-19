@@ -10,6 +10,7 @@
 
 ## Projects
 
+- [Pages Colorées](http://pagescolorees.info) - Yellow Pages, but with more colors
 
 ## Challenge yourself
 
