@@ -15,6 +15,7 @@
 - [SnapScreen](https://snapscreen.me) - &#8984; + &#x21E7; + 3 as a service
 - [YouTube Comment](https://snapscreen.me/youtube) - Generate image of YouTube comment
 - [Watchable Quotes](https://gamwe6.github.io/watchable-quotes/) - Collection of quotes in video
+- [HACKERxHUNTER](https://hackerxhunter.surge.sh) - If Product Hunt and Indie Hackers had a father
 
 ## Challenge yourself
 
