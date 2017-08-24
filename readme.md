@@ -17,6 +17,8 @@
 - [Watchable Quotes](https://gamwe6.github.io/watchable-quotes/) - Collection of quotes in video
 - [HACKERxHUNTER](https://hackerxhunter.surge.sh) - If Product Hunt and Indie Hackers had a father
 - [younameit](https://younameit.cc) - younameit helps you choose a domain name
+- [Russian Affiliate](https://gamwe6.github.io/russian-affiliate/) - Play the Russian roulette with your affiliate codes
+
 
 ## Challenge yourself
 
