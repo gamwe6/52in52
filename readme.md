@@ -19,6 +19,7 @@
 - [younameit](https://younameit.cc) - younameit helps you choose a domain name
 - [Russian Affiliate](https://gamwe6.github.io/russian-affiliate/) - Play the Russian roulette with your affiliate codes
 - [WeAreStatic](https://wearestatic.surge.sh/) - Themes for static site generators
+- [ニュース](https://gamwe6.github.io/nyuusu) - Data-friendly Japanese news website
 
 ## Challenge yourself
 
