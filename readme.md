@@ -21,6 +21,7 @@
 - [WeAreStatic](https://wearestatic.surge.sh/) - Themes for static site generators
 - [ニュース](https://gamwe6.github.io/nyuusu) - Data-friendly Japanese news website
 - [#woth](https://twitter.com/gamwe6) - Wallpaper Of The Hour
+- [Pulantu](https://github.com/gamwe6/pulantu) - Ubuntu-like release code name, but with plants
 
 ## Challenge yourself
 
