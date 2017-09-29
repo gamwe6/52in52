@@ -20,6 +20,7 @@
 - [Russian Affiliate](https://gamwe6.github.io/russian-affiliate/) - Play the Russian roulette with your affiliate codes
 - [WeAreStatic](https://wearestatic.surge.sh/) - Themes for static site generators
 - [ニュース](https://gamwe6.github.io/nyuusu) - Data-friendly Japanese news website
+- [#woth](https://twitter.com/gamwe6) - Wallpaper Of The Hour
 
 ## Challenge yourself
 
