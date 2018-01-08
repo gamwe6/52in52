@@ -24,6 +24,7 @@
 - [Pulantu](https://github.com/gamwe6/pulantu) - Ubuntu-like release code name, but with plants
 - [Punsh](https://punsh.gamwe6.com) - Color palettes from Unsplash photos
 - [gamwe6](https://www.gamwe6.com) - gamwe6
+- [Design Blogs](https://github.com/gamwe6/design-blogs) - A curated list of design blogs
 
 ## Challenge yourself
 
