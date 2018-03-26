@@ -25,6 +25,7 @@
 - [Punsh](https://punsh.gamwe6.com) - Color palettes from Unsplash photos
 - [gamwe6](https://www.gamwe6.com) - gamwe6
 - [Design Blogs](https://github.com/gamwe6/design-blogs) - A curated list of design blogs
+- [Indie Hackers Books](https://indiehackersbooks.com) - A curated list of books indie hackers
 
 ## Challenge yourself
 
