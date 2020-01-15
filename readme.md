@@ -26,6 +26,9 @@
 - [gamwe6](https://www.gamwe6.com) - gamwe6
 - [Design Blogs](https://github.com/gamwe6/design-blogs) - A curated list of design blogs
 - [Indie Hackers Books](https://indiehackersbooks.com) - A curated list of books indie hackers
+- [Euler in Babylon](https://eulerinbabylon.onrender.com/) - Project Euler in different languages
+- [オーバーフロー](https://gamwe6.github.io/obafuro/) - スタック・オーバーフローはプログラマーとプログラミングに熱心な人のためのQ&Aサイトです
+- [indieviews](https://github.com/gamwe6/indieviews) - Find the interview you were not looking for
 
 ## Challenge yourself
 
