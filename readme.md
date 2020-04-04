@@ -29,6 +29,8 @@
 - [Euler in Babylon](https://eulerinbabylon.onrender.com/) - Project Euler in different languages
 - [オーバーフロー](https://gamwe6.github.io/obafuro/) - スタック・オーバーフローはプログラマーとプログラミングに熱心な人のためのQ&Aサイトです
 - [indieviews](https://github.com/gamwe6/indieviews) - Find the interview you were not looking for
+- [emmanuelmacrontweets](https://github.com/gamwe6/emmanuelmacrontweets) - emmanuelmacrontweets
+- [Google COVID-19 Community Mobility Reports](https://github.com/gamwe6/covid-19-community-mobility-reports) - Google COVID-19 Community Mobility Reports
 
 ## Challenge yourself
 
